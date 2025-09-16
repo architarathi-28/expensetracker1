@@ -1,0 +1,11 @@
+.app-container {
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 20px;
+  background-color: #eef2f3;
+  min-height: 100vh;
+}
+
+h1 {
+  color: #333;
+}
